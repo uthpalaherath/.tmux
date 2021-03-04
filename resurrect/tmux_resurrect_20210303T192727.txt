@@ -1,0 +1,3 @@
+pane	desktop2-0	1	:bash	1	:*	1	:/home/uthpala/.tmux	1	bash	:
+window	desktop2-0	1	1	:*	cbdd,212x48,0,0,0
+state	desktop2-0	
